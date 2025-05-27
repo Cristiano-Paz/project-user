@@ -1,7 +1,8 @@
 package com.userjava.user.infrastructure.repository;
 
 
-import infrastructure.entity.Usuario;
+
+import com.userjava.user.infrastructure.entity.Usuario;
 import jakarta.transaction.Transactional;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

@@ -1,6 +1,7 @@
 package com.userjava.user.infrastructure.repository;
 
-import infrastructure.entity.Endereco;
+
+import com.userjava.user.infrastructure.entity.Endereco;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
