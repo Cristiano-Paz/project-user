@@ -1,7 +1,8 @@
 package com.userjava.user.infrastructure.repository;
 
 
-import infrastructure.entity.Telefone;
+
+import com.userjava.user.infrastructure.entity.Telefone;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
